@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="HAPPYCOMPOSITE">
+  <rect width="32" height="32" rx="6" fill="#0a2540"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M 11 9 V 23" stroke="#ffffff" stroke-width="3.6"/>
+    <path d="M 21 9 V 23" stroke="#ffffff" stroke-width="3.6"/>
+    <path d="M 11 16 H 21" stroke="#ff6a00" stroke-width="3.6"/>
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="HAPPYCOMPOSITE">
+  <defs>
+    <linearGradient id="hcFace" gradientUnits="userSpaceOnUse" x1="0" y1="70" x2="0" y2="190">
+      <stop offset="0"    stop-color="#fafafa"/>
+      <stop offset="0.18" stop-color="#cfd6df"/>
+      <stop offset="0.45" stop-color="#7a8593"/>
+      <stop offset="0.72" stop-color="#3a4452"/>
+      <stop offset="1"    stop-color="#0a1018"/>
+    </linearGradient>
+    <linearGradient id="hcRim" gradientUnits="userSpaceOnUse" x1="0" y1="70" x2="0" y2="190">
+      <stop offset="0"   stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#9aa3ad"/>
+      <stop offset="1"   stop-color="#1a2028"/>
+    </linearGradient>
+    <linearGradient id="hcInner" gradientUnits="userSpaceOnUse" x1="0" y1="70" x2="0" y2="190">
+      <stop offset="0"    stop-color="#0a1018"/>
+      <stop offset="0.55" stop-color="#2a323d"/>
+      <stop offset="1"    stop-color="#5d6773"/>
+    </linearGradient>
+    <linearGradient id="hcGloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- H + C letter mark (HappyComposite) -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- depth shadow -->
+    <g transform="translate(2,3)" opacity="0.5" stroke="#000" stroke-width="34">
+      <path d="M 56 82 V 174"/>
+      <path d="M 112 82 V 174"/>
+      <path d="M 56 128 H 112"/>
+      <path d="M 220 104 A 40 40 0 1 0 220 152"/>
+    </g>
+    <!-- inner recess -->
+    <g stroke="url(#hcInner)" stroke-width="26">
+      <path d="M 56 82 V 174"/>
+      <path d="M 112 82 V 174"/>
+      <path d="M 56 128 H 112"/>
+      <path d="M 220 104 A 40 40 0 1 0 220 152"/>
+    </g>
+    <!-- metal face -->
+    <g stroke="url(#hcFace)" stroke-width="18">
+      <path d="M 56 82 V 174"/>
+      <path d="M 112 82 V 174"/>
+      <path d="M 56 128 H 112"/>
+      <path d="M 220 104 A 40 40 0 1 0 220 152"/>
+    </g>
+    <!-- top highlight rim -->
+    <g stroke="url(#hcRim)" stroke-width="3" opacity="0.9">
+      <path d="M 56 82 V 174"/>
+      <path d="M 112 82 V 174"/>
+      <path d="M 56 128 H 112"/>
+      <path d="M 220 104 A 40 40 0 1 0 220 152"/>
+    </g>
+  </g>
+
+  <!-- top gloss sweep -->
+  <rect x="0" y="0" width="256" height="108" fill="url(#hcGloss)" opacity="0.28"/>
+</svg>

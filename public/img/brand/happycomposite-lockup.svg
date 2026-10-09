@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" role="img" aria-label="HAPPYCOMPOSITE Carbon Fiber">
+  <defs>
+    <linearGradient id="mFace" gradientUnits="userSpaceOnUse" x1="0" y1="70" x2="0" y2="190">
+      <stop offset="0"    stop-color="#fafafa"/>
+      <stop offset="0.18" stop-color="#cfd6df"/>
+      <stop offset="0.45" stop-color="#7a8593"/>
+      <stop offset="0.72" stop-color="#3a4452"/>
+      <stop offset="1"    stop-color="#0a1018"/>
+    </linearGradient>
+    <linearGradient id="mRim" gradientUnits="userSpaceOnUse" x1="0" y1="70" x2="0" y2="190">
+      <stop offset="0"   stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#9aa3ad"/>
+      <stop offset="1"   stop-color="#1a2028"/>
+    </linearGradient>
+    <linearGradient id="mInner" gradientUnits="userSpaceOnUse" x1="0" y1="70" x2="0" y2="190">
+      <stop offset="0"    stop-color="#0a1018"/>
+      <stop offset="0.55" stop-color="#2a323d"/>
+      <stop offset="1"    stop-color="#5d6773"/>
+    </linearGradient>
+    <linearGradient id="mGloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- letter mark -->
+  <g transform="translate(10,30) scale(0.62)">
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <g transform="translate(2,3)" opacity="0.5" stroke="#000" stroke-width="34">
+        <path d="M 56 82 V 174"/>
+        <path d="M 112 82 V 174"/>
+        <path d="M 56 128 H 112"/>
+        <path d="M 220 104 A 40 40 0 1 0 220 152"/>
+      </g>
+      <g stroke="url(#mInner)" stroke-width="26">
+        <path d="M 56 82 V 174"/>
+        <path d="M 112 82 V 174"/>
+        <path d="M 56 128 H 112"/>
+        <path d="M 220 104 A 40 40 0 1 0 220 152"/>
+      </g>
+      <g stroke="url(#mFace)" stroke-width="18">
+        <path d="M 56 82 V 174"/>
+        <path d="M 112 82 V 174"/>
+        <path d="M 56 128 H 112"/>
+        <path d="M 220 104 A 40 40 0 1 0 220 152"/>
+      </g>
+      <g stroke="url(#mRim)" stroke-width="3" opacity="0.9">
+        <path d="M 56 82 V 174"/>
+        <path d="M 112 82 V 174"/>
+        <path d="M 56 128 H 112"/>
+        <path d="M 220 104 A 40 40 0 1 0 220 152"/>
+      </g>
+    </g>
+    <rect x="0" y="0" width="256" height="108" fill="url(#mGloss)" opacity="0.28"/>
+  </g>
+
+  <!-- divider -->
+  <line x1="200" y1="48" x2="200" y2="172" stroke="#cfd6df" stroke-width="2"/>
+
+  <!-- wordmark -->
+  <g transform="translate(232,0)" font-family="Inter, 'Helvetica Neue', Arial, sans-serif">
+    <text x="0" y="110" font-size="44" font-weight="800" letter-spacing="2.5" fill="#0a2540">HAPPYCOMPOSITE</text>
+    <text x="3" y="146" font-size="18" font-weight="500" letter-spacing="9" fill="#6b7a8c">CARBON FIBER</text>
+  </g>
+</svg>

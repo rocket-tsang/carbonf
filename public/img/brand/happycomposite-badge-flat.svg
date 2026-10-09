@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="HAPPYCOMPOSITE">
+  <defs>
+    <linearGradient id="hcFlatFace" gradientUnits="userSpaceOnUse" x1="0" y1="70" x2="0" y2="190">
+      <stop offset="0"   stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#dfe6ee"/>
+      <stop offset="1"   stop-color="#9fb0c2"/>
+    </linearGradient>
+    <linearGradient id="hcFlatRim" gradientUnits="userSpaceOnUse" x1="0" y1="70" x2="0" y2="190">
+      <stop offset="0" stop-color="#ff8a3d"/>
+      <stop offset="1" stop-color="#ff6a00"/>
+    </linearGradient>
+  </defs>
+
+  <!-- H + C letter mark, light-on-dark variant -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="url(#hcFlatFace)" stroke-width="22">
+      <path d="M 56 82 V 174"/>
+      <path d="M 112 82 V 174"/>
+      <path d="M 56 128 H 112"/>
+      <path d="M 220 104 A 40 40 0 1 0 220 152"/>
+    </g>
+    <g stroke="url(#hcFlatRim)" stroke-width="2.6" opacity="0.95">
+      <path d="M 56 82 V 174"/>
+      <path d="M 112 82 V 174"/>
+      <path d="M 56 128 H 112"/>
+      <path d="M 220 104 A 40 40 0 1 0 220 152"/>
+    </g>
+  </g>
+</svg>
