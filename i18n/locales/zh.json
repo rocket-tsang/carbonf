@@ -1,0 +1,162 @@
+{
+  "site": {
+    "brand": "HAPPYCOMPOSITE",
+    "brandShort": "HAPPYCOMPOSITE",
+    "tagline": "十五年以上高性能碳纤维复合材料工程经验",
+    "subtagline": "8000㎡+ 先进厂房；全球一线品牌的可信 OEM 合作伙伴。"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "capabilities": "生产能力",
+    "sections": "型材",
+    "sustainability": "可持续发展",
+    "contact": "联系我们"
+  },
+  "actions": {
+    "learnMore": "了解更多",
+    "getQuote": "获取免费报价",
+    "sendRequest": "提交需求",
+    "readMore": "阅读更多",
+    "submit": "提交",
+    "submitting": "提交中…",
+    "submitted": "感谢您的留言，我们将尽快与您联系。"
+  },
+  "footer": {
+    "company": "公司",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "news": "新闻",
+    "product": "产品",
+    "address": "地址",
+    "mob": "手机",
+    "tel": "电话",
+    "email": "邮箱",
+    "addressValue": "中国广东省东莞市塘厦镇龙背岭福康路 2 号",
+    "mobValue": "+86 135 5388 4357",
+    "telValue": "+86 0769 87810078",
+    "emailValue": "info{'@'}carbonfibercy.com",
+    "copyright": "© {year} HAPPYCOMPOSITE 版权所有"
+  },
+  "home": {
+    "heroEyebrow": "全球顶级品牌的领先 OEM 制造商",
+    "heroTitle": "工程级碳纤维，为冠军打造",
+    "heroDesc": "从海洋到天空——以高性能 CFRP 部件，将工程构想转化为竞争优势。",
+    "stats": {
+      "years": "15+ 年行业经验",
+      "facility": "8000㎡+ 先进厂房",
+      "qc": "12 道质量控制流程",
+      "preInsp": "100% 产前检验"
+    },
+    "applications": "应用领域",
+    "applicationsDesc": "我们以高性能碳纤维产品处于创新前沿，为全球最具挑战性的行业提供轻量化、高强度解决方案。",
+    "industries": {
+      "sports": {
+        "title": "体育",
+        "desc": "为体育应用提供轻量、耐用、精密的碳纤维部件，涵盖水上运动及各类高性能器材。"
+      },
+      "medical": {
+        "title": "医疗",
+        "desc": "可透 X 射线、轻量化的碳纤维医疗部件，包括假肢、影像床及辅助设备，生物相容且精密可靠。"
+      },
+      "uav": {
+        "title": "无人机",
+        "desc": "为无人机平台提供精密的碳纤维结构部件，优化重量、强度与飞行稳定性。"
+      },
+      "industrial": {
+        "title": "工业 / 定制",
+        "desc": "面向工业应用定制碳纤维部件，提供高强度、轻量化和耐腐蚀的解决方案。"
+      }
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "自 2010 年起专注碳纤维工艺",
+    "intro": "HAPPYCOMPOSITE 是高性能碳纤维增强复合材料（CFRP）部件的领先 OEM 制造商，总部位于中国东莞。十多年的专注工程积累与 8000㎡+ 先进产能，服务于全球体育、医疗、无人机和工业市场的一线品牌。",
+    "mission": "使命",
+    "missionText": "以精密工程、严苛品质与持续创新，交付全球最可靠的碳纤维部件。",
+    "vision": "愿景",
+    "visionText": "成为塑造未来性能的品牌最值得信赖的 CFRP 合作伙伴。",
+    "values": "核心价值观",
+    "valuesList": {
+      "precision": "每一根纤维都精密",
+      "quality": "品质毫不妥协",
+      "innovation": "创新是习惯",
+      "partnership": "长期伙伴关系"
+    }
+  },
+  "capabilities": {
+    "title": "生产能力",
+    "subtitle": "端到端 CFRP 制造",
+    "intro": "从原材料筛选到精密加工与表面处理，全流程内部完成，全程受严格质量控制。",
+    "list": {
+      "layup": "预浸料铺层与热压罐固化",
+      "rtm": "树脂传递模塑（RTM）",
+      "filament": "纤维缠绕",
+      "pultrusion": "拉挤成型",
+      "cnc": "五轴 CNC 加工",
+      "metrology": "三维测量与三坐标检测",
+      "finishing": "表面处理与涂装",
+      "assembly": "部件装配与套件包装"
+    }
+  },
+  "sections": {
+    "title": "型材",
+    "subtitle": "标准与定制型材",
+    "intro": "不断扩展的标准型材库——圆管、方管、复杂气动型材以及完全定制的几何形状。所有型材均可按纤维方向、铺层和表面处理进行定制。",
+    "categories": {
+      "round": "圆管",
+      "square": "方管与矩形管",
+      "profile": "复杂型材",
+      "sheet": "板材与片材"
+    }
+  },
+  "sustainability": {
+    "title": "可持续发展",
+    "subtitle": "更好的材料，更好的明天",
+    "intro": "我们通过材料效率、减少浪费以及全生命周期的持续改进，致力降低环境影响。",
+    "pillars": {
+      "material": {
+        "title": "材料效率",
+        "desc": "优化铺层设计，在保持结构性能的同时最大限度减少废料。"
+      },
+      "energy": {
+        "title": "能源与排放",
+        "desc": "以节能为导向的工艺设计，持续监控能耗与排放。"
+      },
+      "waste": {
+        "title": "减废",
+        "desc": "闭环物料管理、余料回收与化学品规范处置。"
+      },
+      "people": {
+        "title": "人员与安全",
+        "desc": "在所有工厂与班次执行严格的职业健康与安全标准。"
+      }
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "告诉我们您的项目",
+    "intro": "无论您正在评估新设计还是扩大现有项目，我们的工程团队都随时为您提供支持。",
+    "form": {
+      "name": "您的姓名",
+      "email": "邮箱",
+      "phone": "电话",
+      "company": "公司",
+      "subject": "主题",
+      "message": "留言",
+      "required": "必填",
+      "invalidEmail": "请输入有效的邮箱地址",
+      "thanks": "感谢您的留言，我们将尽快与您联系。"
+    },
+    "info": {
+      "addressTitle": "地址",
+      "address": "中国广东省东莞市塘厦镇龙背岭福康路 2 号",
+      "phoneTitle": "电话",
+      "phoneMob": "手机: +86 135 5388 4357",
+      "phoneTel": "座机: +86 0769 87810078",
+      "emailTitle": "邮箱",
+      "email": "info{'@'}carbonfibercy.com"
+    }
+  }
+}

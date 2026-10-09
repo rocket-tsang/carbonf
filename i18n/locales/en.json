@@ -1,0 +1,162 @@
+{
+  "site": {
+    "brand": "HAPPYCOMPOSITE",
+    "brandShort": "HAPPYCOMPOSITE",
+    "tagline": "15+ Years of Excellence in High-Performance CFRP Engineering.",
+    "subtagline": "8,000㎡+ Advanced Facility; Trusted OEM for Global Tier-1 Brands."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "capabilities": "Capabilities",
+    "sections": "Sections",
+    "sustainability": "Sustainability",
+    "contact": "Contact Us"
+  },
+  "actions": {
+    "learnMore": "Learn More",
+    "getQuote": "Get a Free Quote",
+    "sendRequest": "Send Request",
+    "readMore": "Read More",
+    "submit": "Submit",
+    "submitting": "Submitting…",
+    "submitted": "Thank you. We will get back to you shortly."
+  },
+  "footer": {
+    "company": "Company",
+    "about": "About Us",
+    "contact": "Contact",
+    "news": "News",
+    "product": "Product",
+    "address": "Add.",
+    "mob": "Mob.",
+    "tel": "Tel.",
+    "email": "Email",
+    "addressValue": "No.2 Fukang Rd. Longbeiling Tangxia Town Dongguan City China",
+    "mobValue": "+86 135 5388 4357",
+    "telValue": "+86 0769 87810078",
+    "emailValue": "info{'@'}carbonfibercy.com",
+    "copyright": "© {year} HAPPYCOMPOSITE. All rights reserved."
+  },
+  "home": {
+    "heroEyebrow": "Leading OEM Manufacturer for the Top World Brands",
+    "heroTitle": "Engineered Carbon Fiber. Built for Champions.",
+    "heroDesc": "From ocean to sky — high-performance CFRP components that turn engineering ambition into competitive advantage.",
+    "stats": {
+      "years": "15+ Years of Excellence",
+      "facility": "8,000㎡+ Advanced Facility",
+      "qc": "12 Quality Control Processes",
+      "preInsp": "100% Pre-Production Inspections"
+    },
+    "applications": "Our Applications",
+    "applicationsDesc": "Our high-performance carbon fiber products are at the forefront of innovation, providing lightweight and high-strength solutions for the world's most demanding industries.",
+    "industries": {
+      "sports": {
+        "title": "Sports",
+        "desc": "High-Performance Carbon Fiber Components for Sports Applications. We provide lightweight, durable, and precision-engineered carbon fiber components for water sports and other high-performance athletic equipment."
+      },
+      "medical": {
+        "title": "Medical",
+        "desc": "Radiolucent and Lightweight Carbon Fiber Components for Medical Applications. Biocompatible materials, precision engineering, and reliable performance to meet medical industry standards."
+      },
+      "uav": {
+        "title": "UAV / Drones",
+        "desc": "Lightweight and High-Strength Carbon Fiber Components for UAV Platforms. Optimized for weight, strength, and flight stability across frame structures and propeller supports."
+      },
+      "industrial": {
+        "title": "Industrial / Custom",
+        "desc": "Custom Carbon Fiber Components for Industrial Applications. Tailored high-strength, lightweight, and corrosion-resistant solutions for automation, robotics, and mechanical assemblies."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Crafting Carbon Fiber Excellence Since 2010",
+    "intro": "HAPPYCOMPOSITE is a leading OEM manufacturer of high-performance carbon fiber reinforced polymer (CFRP) components, headquartered in Dongguan, China. With more than a decade of dedicated engineering and over 8,000㎡ of advanced manufacturing capacity, we serve global Tier-1 brands across sports, medical, UAV, and industrial markets.",
+    "mission": "Mission",
+    "missionText": "To deliver the world's most reliable carbon fiber components through precision engineering, rigorous quality, and relentless innovation.",
+    "vision": "Vision",
+    "visionText": "To be the most trusted CFRP partner for the brands that shape tomorrow's performance.",
+    "values": "Core Values",
+    "valuesList": {
+      "precision": "Precision in every fiber",
+      "quality": "Quality without compromise",
+      "innovation": "Innovation as a habit",
+      "partnership": "Partnership for the long term"
+    }
+  },
+  "capabilities": {
+    "title": "Capabilities",
+    "subtitle": "End-to-end CFRP Manufacturing",
+    "intro": "From raw material selection to precision machining and surface finishing, every step is performed in-house under strict quality control.",
+    "list": {
+      "layup": "Prepreg Layup & Autoclave Curing",
+      "rtm": "Resin Transfer Molding (RTM)",
+      "filament": "Filament Winding",
+      "pultrusion": "Pultrusion",
+      "cnc": "5-Axis CNC Machining",
+      "metrology": "3D Metrology & CMM Inspection",
+      "finishing": "Surface Finishing & Lacquering",
+      "assembly": "Component Assembly & Kitting"
+    }
+  },
+  "sections": {
+    "title": "Sections",
+    "subtitle": "Standard & Custom Profiles",
+    "intro": "A growing library of standard sections — round tubes, square tubes, complex aerodynamic profiles, and fully custom geometries. All sections can be tailored in fiber orientation, layup, and surface finish.",
+    "categories": {
+      "round": "Round Tubes",
+      "square": "Square & Rectangular Tubes",
+      "profile": "Complex Profiles",
+      "sheet": "Sheets & Plates"
+    }
+  },
+  "sustainability": {
+    "title": "Sustainability",
+    "subtitle": "Better Materials, Better Tomorrow",
+    "intro": "We are committed to reducing our environmental footprint through material efficiency, waste reduction, and continuous improvement across the production lifecycle.",
+    "pillars": {
+      "material": {
+        "title": "Material Efficiency",
+        "desc": "Optimized layup schedules minimize scrap while preserving structural performance."
+      },
+      "energy": {
+        "title": "Energy & Emissions",
+        "desc": "Energy-conscious process design with continuous monitoring of consumption and emissions."
+      },
+      "waste": {
+        "title": "Waste Reduction",
+        "desc": "Closed-loop material handling, offcut recycling, and responsible disposal of process chemicals."
+      },
+      "people": {
+        "title": "People & Safety",
+        "desc": "Strict occupational health and safety standards across every facility and shift."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Tell us about your project",
+    "intro": "Whether you are evaluating a new design or scaling an existing program, our engineering team is ready to help.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email",
+      "phone": "Phone",
+      "company": "Company",
+      "subject": "Subject",
+      "message": "Message",
+      "required": "Required",
+      "invalidEmail": "Please enter a valid email",
+      "thanks": "Thank you. We will get back to you shortly."
+    },
+    "info": {
+      "addressTitle": "Address",
+      "address": "No.2 Fukang Rd. Longbeiling, Tangxia Town, Dongguan City, China",
+      "phoneTitle": "Phone",
+      "phoneMob": "Mob: +86 135 5388 4357",
+      "phoneTel": "Tel: +86 0769 87810078",
+      "emailTitle": "Email",
+      "email": "info{'@'}carbonfibercy.com"
+    }
+  }
+}
